@@ -1,5 +1,5 @@
 ---
-title: Elasticsearch手册
+title: Elasticsearch常用api
 tag: 
     - elasticsearch
 categories: 
